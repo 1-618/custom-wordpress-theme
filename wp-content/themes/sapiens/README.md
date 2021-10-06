@@ -1,1 +1,1 @@
-#WordPress Theme - Sapiens
+# WordPress Theme - Sapiens
